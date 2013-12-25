@@ -1,7 +1,7 @@
 {
   "name": "monitor-min",
   "description": "Runtime monitoring for node.js applications",
-  "version": "0.5.12",
+  "version": "0.5.13",
   "main": "./lib/index.js",
   "author": {
     "name": "Loren West",
